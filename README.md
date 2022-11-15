@@ -15,13 +15,12 @@ N/A
 
 ## Usage
 
-Open the webpage in your browser by following this link: https://tamzinc.github.io/my-portfolio/. It should open up a webpage that looks like this:
+Open the webpage in your browser by following this link: https://tamzinc.github.io/console-finances/.
 
+Once on the webpage you will be able to view the console in DevTools by either right-clicking and selecting 'Inspect' or using the shortcuts cmd + option + J for Mac or Ctrl + Shift + J for windows. You should be able to see something like this:
 
-<img width="1075" alt="image" src="https://user-images.githubusercontent.com/115940593/199120829-2ad9309c-1212-4366-bb0c-2ed652635add.png">
+![image](https://user-images.githubusercontent.com/115940593/202045793-2fdf2e10-2a67-4bff-8aab-3903a9b94a4a.png)
 
-
-Once on the webpage you will be able to view the console in DevTools by either right-clicking and selecting 'Inspect' or using the shortcuts cmd + option + J for Mac or Ctrl + Shift + J for windows.
 
 If you would like to view my GitHub repo to view my code, please follow this link: https://github.com/TamzinC/console-finances.
 

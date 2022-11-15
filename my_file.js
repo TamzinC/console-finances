@@ -13,12 +13,14 @@ while (i < finances.length) {
 console.log(sum);
 
 // Average change:
-// console.log(sum / 85);
 
 finances.forEach (function(num) {sum += num});
 average = sum / finances.length;
 console.log(average);
 
+// Different attempts made for step 3:
+
+// console.log(sum / 85);
 
 // while(i < finances.length) {
 //   sum-=[i][1];
